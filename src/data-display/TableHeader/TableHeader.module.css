@@ -1,0 +1,9 @@
+.header {
+    padding: 16px 25px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .headerLogo {
+    height: 48px;
+  }
